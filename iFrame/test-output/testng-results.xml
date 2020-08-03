@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-19T22:14:30 PDT" name="Default suite" finished-at="2020-05-19T22:14:43 PDT" duration-ms="12804">
+    <groups>
+    </groups>
+    <test started-at="2020-05-19T22:14:30 PDT" name="Default test" finished-at="2020-05-19T22:14:43 PDT" duration-ms="12804">
+      <class name="iFrameExample.IframeTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:iFrameExample.IframeTest@43ee72e6]" started-at="2020-05-19T22:14:30 PDT" name="beforeTest" finished-at="2020-05-19T22:14:40 PDT" duration-ms="10055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="sample()[pri:0, instance:iFrameExample.IframeTest@43ee72e6]" started-at="2020-05-19T22:14:40 PDT" name="sample" finished-at="2020-05-19T22:14:43 PDT" duration-ms="2623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:iFrameExample.IframeTest@43ee72e6]" started-at="2020-05-19T22:14:43 PDT" name="afterTest" finished-at="2020-05-19T22:14:43 PDT" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- iFrameExample.IframeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
